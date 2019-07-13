@@ -1,0 +1,74 @@
+@charset "utf-8";
+*{margin:0px; padding:0px; list-style:none;}
+body{font-size: 12px;line-height: 24px; min-width: 1100px;color: #f1e2a4;font-family:"Microsoft YaHei","??????"; background:#220c03 url(../style/bj.jpg)/*tpa=https://tg.ee360360.cn/8888/images/bj.jpg*/ center bottom no-repeat;}
+a{ color:#f1e2a4; text-decoration:none;}
+.fl{ float:left;}
+.fr{ float:right;}
+.c{clear: both;line-height: 0;overflow: hidden;zoom: 1;font-size: 0;content: '.';}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+img{ border:none; vertical-align:middle;}
+.wp{ width:1000px; margin:0 auto;}
+
+.header{ height:156px; overflow:hidden; background:url(../style/topbj.png)/*tpa=https://tg.ee360360.cn/8888/images/topbj.png*/ center top no-repeat; border-bottom:2px solid #F7D85D;}
+.header .logo{ float:left; margin:30px 35px 0 0;}
+.header .top_z{ float:left; width:230px; text-align:center; font-size:16px; color:#fae971; margin:40px 0 0 0; line-height:24px;}
+.header .top_z .k{ height:28px; line-height:28px; overflow:hidden; border:1px solid #cdaf2f; margin-top:5px; text-indent:-9999px; background:url(../style/zi.png)/*tpa=https://tg.ee360360.cn/8888/images/zi.png*/ center center no-repeat;}
+.header .top_r{ float:right; margin-top:68px;}
+.header .top_r a{float:left;margin-left:10px;overflow:hidden;width:138px;height:60px;}
+.nav07{background:url(../style/nav07.png)/*tpa=https://tg.ee360360.cn/8888/images/nav07.png*/ no-repeat center}
+.nav08{background:url(../style/nav08.png)/*tpa=https://tg.ee360360.cn/8888/images/nav08.png*/ no-repeat center}
+.nav07:hover{background:url(../style/nav07_hov.png)/*tpa=https://tg.ee360360.cn/8888/images/nav07_hov.png*/ no-repeat center}
+.nav08:hover{background:url(../style/nav08_hov.png)/*tpa=https://tg.ee360360.cn/8888/images/nav08_hov.png*/ no-repeat center}
+.header .top_r img{display:block}
+
+.zdxz{ overflow:hidden; margin-left:-25px; position:relative; padding:20px 0 30px 0;}
+.zdxz li{ float:left; width:180px; height:146px; background:url(../images/ico_zd.png)/*tpa=https://tg.ee360360.cn/8888/images/ico_zd.png*/ no-repeat; margin-left:25px; text-align:center; font-size:16px;}
+.zdxz li i{ display:block; width:30px; height:30px; line-height:30px; text-align:center; margin:0 auto; background:url(../images/ico_xh.png)/*tpa=https://tg.ee360360.cn/8888/images/ico_xh.png*/ no-repeat; font-size:20px; color:#371709; font-style:normal; margin-top:20px;}
+.zdxz li .b{ font-size:18px; color:#fdfdfd; height:36px; line-height:36px; overflow:hidden; margin-top:5px;}
+.zdxz li span{ color:#fff601;}
+.zdxz li a{ color:#f88907; display:block;}
+
+.caidan{ overflow:hidden; width:458px; height:358px; float:left;}
+.caidan li{ float:left; width:229px; height:179px; background:url(../style/ndm.png)/*tpa=https://tg.ee360360.cn/8888/images/ndm.png*/ no-repeat;}
+.caidan li:hover{background:url(../style/ndmh.png)/*tpa=https://tg.ee360360.cn/8888/images/ndmh.png*/ no-repeat;}
+.caidan li a{ display:block; height:179px; overflow:hidden; text-indent:-9999px;}
+.caidan li.caidan_1{ background-position:0 0;}
+.caidan li.caidan_2{ background-position:-229px 0;}
+.caidan li.caidan_3{ background-position:0 -179px;}
+.caidan li.caidan_4{ background-position:-229px -179px;}
+
+.banner{ width:518px; height:347px; float:right; background:url(../style/bannerbj.png)/*tpa=https://tg.ee360360.cn/8888/images/bannerbj.png*/ no-repeat; overflow:hidden; padding:6px 5px 7px 6px; position:relative;}
+.banner img{ width:518px; height:347px;}
+.banner .banner_x{ position:absolute; right:15px; bottom:20px;}
+.banner .banner_x span{ width:10px; height:10px; display:block; float:left; margin:0 3px; background:#fff;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%; cursor:pointer;}
+.banner .banner_x span.on{ background:#f5bc54;}
+
+.menu{ overflow:hidden; width:283px; height:346px; float:left; padding:7px 6px; background:url(../style/leftmenubj.png)/*tpa=https://tg.ee360360.cn/8888/images/leftmenubj.png*/ no-repeat; margin-top:45px;}
+.menu li{background:url(../style/menu.png)/*tpa=https://tg.ee360360.cn/8888/images/menu.png*/ no-repeat;}
+.menu li.menu_1{ background-position:0 0; height:107px; line-height:107px;}
+.menu li.menu_2{ background-position:0 -107px; height:107px; line-height:107px;}
+.menu li.menu_3{ background-position:0 -214px; height:132px; line-height:132px;}
+.menu li a{ display:block; overflow:hidden; text-indent:-9999px;}
+.menu_1 a,.menu_2 a{display:block;width:283px;height:107px}
+.menu_3 a{display:block;width:283px;height:132px}
+
+.box{ overflow:hidden; float:right; width:698px; margin-top:40px;}
+.box li{ background:url(../style/boxbj.png)/*tpa=https://tg.ee360360.cn/8888/images/boxbj.png*/ no-repeat; width:335px; height:164px; float:left; border:1px solid rgb(23, 23, 23); margin:6px 0 6px 12px;}
+.box li a{ display:block; height:164px; overflow:hidden;} 
+.box li .b span{ font-size:18px; padding:0 5px 0 20px; color:#fce89f;}
+.box li .b em{ text-transform:uppercase;}
+.box li .n{ margin:10px 0 0 18px; width:188px; height:90px; line-height:18px; overflow:hidden; text-indent:2em;color: #fff296;}
+.box li a.box_1{ background:url(../style/listbj1.png)/*tpa=https://tg.ee360360.cn/8888/images/listbj1.png*/ right center no-repeat;}
+.box li a.box_2{ background:url(../style/listbj2.png)/*tpa=https://tg.ee360360.cn/8888/images/listbj2.png*/ right center no-repeat;}
+.box li a.box_3{ background:url(../style/listbj3.png)/*tpa=https://tg.ee360360.cn/8888/images/listbj3.png*/ right center no-repeat;}
+.box li a.box_4{ background:url(../style/listbj4.png)/*tpa=https://tg.ee360360.cn/8888/images/listbj4.png*/ right center no-repeat;}
+
+.diyx{ overflow:hidden; background-color:#652301; border:1px solid #D5B362; margin-top:40px;}
+.diyx li{width:248px; font-size:14px; color:#eccb7b; float:left; padding:30px 0; border-left:1px solid #D5B362; overflow:hidden;text-align:center}
+
+.wuda{ height:104px; overflow:hidden; background:#220c03; border:1px solid #D5B362; border-top:none; padding:20px 0 20px 40px; position:relative;}
+.wuda .k{ width:104px; height:104px; float:left; font-size:14px; background:#792e07;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%; overflow:hidden; color:#FDEE90; text-align:center; margin:0 40px; z-index:1; position:relative;}
+.wuda .k span{ display:block; font-size:30px; line-height:36px; margin-top:22px;}
+.wuda i{ display:block; width:760px;  height:2px; background-color:#D5B362; overflow:hidden; position:absolute; left:100px; top:50%;}
+
+.copy{ padding:30px 0 0 0; overflow:hidden; text-align:center; color:#e4be63;}
