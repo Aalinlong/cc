@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html">
 
-<title>皇家国际娱乐-Welcome</title>
+<title>皇家国际娱乐-首页</title>
 
 <script>if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
 	window.location.href="m.html"/*tpa=/m.html*/;
@@ -36,7 +36,7 @@
   <script type="text/javascript">
 <!--
 document.write('<marquee behavior="scroll" onmouseout=start(); onmouseover=stop(); direction="left" scrollamount="7">');
-document.write('<span style="color:#FF0000;font-size:18pt;"><strong>温馨提示</strong> </span></strong><span style="color:#FFD700;font-size:16pt;"> <strong>: 尊敬的贵宾您好！近期因微信风控较严，为了您的资产安全与游戏体验；请认准并牢记我们的官方网址 ：<span style="color:#FF0000;font-size:18pt;"><strong>hj1600.com</span></strong>');
+document.write('<span style="color:#FF0000;font-size:18pt;"><strong>温馨提示</strong> </span></strong><span style="color:#FFD700;font-size:16pt;"> <strong>: 尊敬的贵宾您好！近期因微信风控较严，为了您的资产安全与游戏体验；请认准并牢记我们的官方网址 ：<span style="color:#FF0000;font-size:18pt;"><strong>jxhuifeng.com</span></strong>');
 document.write('</marquee>');
 -->
 </script>
